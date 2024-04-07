@@ -314,7 +314,7 @@ a{
   .project-card{
     width:90%;
     height:550px;
-    background-image: url(./images/Screenshot\ 2024-04-07\ 005045.png );
+    background-image: url(Screenshot\ 2024-04-07\ 005045.png );
     background-size: cover;
     /* background-repeat: no-repeat; */
     position:relative;
@@ -448,7 +448,7 @@ a{
   }
 
   #project1{
-    background-image: url(./images/Screenshot\ 2024-04-07\ 005045.png);
+    background-image: url(Screenshot\ 2024-04-07\ 005045.png);
   }
 
   #project2{
@@ -460,7 +460,7 @@ a{
   }
   #project4{
     margin-left:120px;
-    background-image: url(./images/screen5.png);
+    background-image: url(.screen5.png);
   }
 
   @media (max-width:1300px) {
